@@ -18,14 +18,12 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HackHappy Blog                          # the main title
+title: Phillip Castellanos                         # the main title
 
-tagline: Security Stuff   # it will display as the sub-title
+tagline: Cybersecurity Stuff   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Howdy, I'm Phillip Castellanos, and welcome to my little corner of the net serving up hot cybersecurity related content.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -39,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: HackHappy
+  name: Phillip Castellanos
   email: hackhappyorg@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
