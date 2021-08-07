@@ -36,6 +36,9 @@ twitter:
   
 youtube:
   username: hackhappy
+  id: 'your-twitter-name'
+  href: 'https://www.youtube.com/c/hackhappyorg'
+  title: 'YouTube'
 
 social:
   # Change to your full name.
@@ -46,7 +49,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/hackhappy1      # change to your twitter homepage
     - https://github.com/hackhappy1       # change to your github homepage
-    - https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA
+    - https://www.youtube.com/c/hackhappyorg
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
