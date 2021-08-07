@@ -33,6 +33,9 @@ github:
 
 twitter:
   username: hackhappy1            # change to your twitter username
+  
+youtube:
+  username: hackhappy
 
 social:
   # Change to your full name.
@@ -43,6 +46,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/hackhappy1      # change to your twitter homepage
     - https://github.com/hackhappy1       # change to your github homepage
+    - https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
