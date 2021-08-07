@@ -83,7 +83,7 @@ theme_mode:  # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://app.cloudcannon.com/api/v0/sites/eb889fda-0084-464a-9229-a36d9de939de/files/assets%2Fimg%2Fphil-avatar.jpg
+avatar: https://app.cloudcannon.com/api/v0/sites/eb889fda-0084-464a-9229-a36d9de939de/files/assets/img/phil-avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
