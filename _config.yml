@@ -23,7 +23,7 @@ title: HackHappy                         # the main title
 tagline: Cybersecurity Practitioner   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Howdy, I'm Phillip Castellanos, and welcome to my little corner of the net serving up hot cybersecurity related content.
+  Howdy, I'm HackHappy, and welcome to my little corner of the net serving up hot cybersecurity related content.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -40,7 +40,7 @@ youtube:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Phillip Castellanos
+  name: HackHappy
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/hackhappy1      # change to your twitter homepage
