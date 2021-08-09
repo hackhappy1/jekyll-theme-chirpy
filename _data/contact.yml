@@ -9,6 +9,7 @@
 -
   type: youtube
   icon: 'fab fa-youtube'
+  url: https://www.youtube.com/c/hackhappyorg
 -
   type: rss
   icon: 'fas fa-rss'
